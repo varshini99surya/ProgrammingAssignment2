@@ -257,10 +257,14 @@ mm$balance()
 Your balance is 200
 
 mm$withdraw(12)
-12 withdrawn.  Your balance is 188 
+12 withdrawn.  
+
+Your balance is 188 
 
 mm$balance()
+
 Your balance is 188 
 
 peter$balance()
+
 Your balance is 120
